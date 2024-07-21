@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikhilSingh0
+- 👋 Hi, I’m @NikhilSingh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
